@@ -2,7 +2,9 @@
 Exploratory Data Analysis (EDA) project using a student performance dataset. The main objective of this project is to extract meaningful insights through visual and statistical exploration of data. The dataset includes various features such as gender, race/ethnicity, parental education level, and scores in math, reading, and writing
 
 # Exploratory Data Analysis (EDA) on Student Performance
-
+![Content Type by Rating](https://github.com/SuhailIsmail/Students_Performance_EDA/blob/main/Scatter.png?raw=true)
+![Content Type by Rating](https://github.com/SuhailIsmail/Students_Performance_EDA/blob/main/pair.png?raw=true)
+![Content Type by Rating](https://github.com/SuhailIsmail/Students_Performance_EDA/blob/main/heatmap.png?raw=true)
 
 ## Overview
 
